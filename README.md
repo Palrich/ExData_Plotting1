@@ -112,3 +112,9 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+<<<<<<< HEAD
+## Reproducing This Project
+
+1. Make sure you are in the directory in which the data for this project is unzipped. Open the code for each plot and run it. It should source automatically from the script "reading_the_data.R". 
+=======
+>>>>>>> 73fe5c675a2db951b302bfd68524bf7a56094d46
