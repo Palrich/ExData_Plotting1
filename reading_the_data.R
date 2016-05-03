@@ -14,3 +14,4 @@ house_data <- as.data.frame(house_data)
 # Create a column for Date_Time in house_data to be used in plotting.
 getDateTime <- paste(house_data$Date, house_data$Time)
 house_data$Date_Time <- strptime(getDateTime, "%d/%m/%Y %H:%M:%S")
+attach(house_data)
